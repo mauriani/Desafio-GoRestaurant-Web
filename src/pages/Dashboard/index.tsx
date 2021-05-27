@@ -40,7 +40,7 @@ const Dashboard: React.FC = () => {
   ): Promise<void> {
     const { name, description, price, image } = food;
     try {
-      const response = await api.post(`/foods/$`, {
+      const response = await api.post(`/foods`, {
         name,
         description,
         price,
