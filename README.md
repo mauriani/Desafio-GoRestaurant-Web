@@ -30,11 +30,10 @@ O GoRestaurant é uma aplicação web para treinamento de alguns conceitos que f
 
 ```tsx
 #Primeiro Execute o nosso server
-
-	yarn json-server server.json -p 3333
+yarn json-server server.json -p 3333
 
 #Start Projeto
-	yarn start
+yarn start
 ```
 
 ### 🚀 **Testes**
