@@ -1,7 +1,6 @@
 # GoRestaurant Web
 
 ![https://github.com/nathaliacristina20/gorestaurant/raw/master/.github/gorestaurant.png](https://github.com/nathaliacristina20/gorestaurant/raw/master/.github/gorestaurant.png)
-
 ## **🚀 Sobre o projeto**
 
 O GoRestaurant é uma aplicação web para treinamento de alguns conceitos que foi aplicado durante esse modulo.  O GoRestaurant é uma aplicação voltada para o administrador onde o mesmo pode adicionar novos pratos e remover de sua aplicação.
