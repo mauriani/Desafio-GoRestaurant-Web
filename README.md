@@ -40,6 +40,4 @@ yarn start
 
 - Para executar os testes rode `yarn test`
 
-## **📃 Licença**
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/nathaliacristina20/gorestaurant/blob/master/LICENSE) para mais detalhes.
